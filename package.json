@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "latest",
+    "@tailwindcss/vite": "latest",
+    "@tanstack/react-query": "latest",
+    "vite": "latest",
+    "tailwindcss": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-redux": "latest",
+    "react-router-dom": "latest",
+    "react-icons": "latest",
+    "@vitejs/plugin-react": "latest"
+  },
+  "devDependencies": {}
+}
